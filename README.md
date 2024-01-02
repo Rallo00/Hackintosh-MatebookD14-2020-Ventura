@@ -35,5 +35,6 @@ Not doing so will prevent iCloud services from working.
 * Touchscreen (it breaks while using, no further problems are generated)
 * Dedicated video card nVidia (not supported on macOS)
 * Integrated WebCam (not supported on macOS)
+* Integrated fingerprint reader (not supported on macOS)
 * Handoff
 * Facetime video (with integrated camera, works with USB external camera)
