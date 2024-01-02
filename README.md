@@ -13,7 +13,7 @@ Not doing so will prevent iCloud services from working.
 * Intel Core i7-10510U (Comet Lake) [_Intel® UHD Graphics for 10th Gen Intel® Processors_]
 * RAM 16GB 3200MHz
 * SSD NVMe Western Digital SN730 SDBPNTY 512GB (NVMeFix kext)
-* Intel 9430HUN WiFi-Bluetooth 4.0 card (Intel kexts)
+* Intel 9560HUN WiFi-Bluetooth 4.0 card (Intel kexts)
 * Intel Realtek Audio (AppleALC kext)
 
 ## What Works
@@ -32,6 +32,7 @@ Not doing so will prevent iCloud services from working.
 
 ## What doesn't work
 * AirDrop functionality (not supported on Intel WiFi)
+  _It is possible to swap the provided Intel Card with a macOS compatible Broadcom card like BCM94360NG which is native with Ventura and does not require any kext for compatibility_
 * Touchscreen (it breaks while using, no further problems are generated)
 * Dedicated video card nVidia (not supported on macOS)
 * Integrated WebCam (not supported on macOS)
