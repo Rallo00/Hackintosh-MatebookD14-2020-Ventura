@@ -24,6 +24,11 @@ Intel Realtek Audio (AppleALC kext)
 * Integrated touchpad and gestures
 * Function buttons (brightness, media, volume)
 * All iCloud functionalities
+* USB-C Thunderbolt (and adapters macOS comaptible)
+* External HDMI
+* HDMI through USB-C
+* Ethernet through USB-C
+* USB 2.0 and 3.0 through USB-C
 
 ## What doesn't work
 * AirDrop functionality (not supported on Intel WiFi)
