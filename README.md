@@ -1,6 +1,6 @@
-I could not find an updated EFI to run safely macOS Ventura on Matebook D14 2020, so I created this one, enjoy.
-
 # Hackintosh Matebook D14 2020 (macOS Ventura)
+
+I could not find an updated EFI to run safely macOS Ventura on Matebook D14 2020, so I created this one, enjoy.
 
 REMEMBER TO GENERATE NEW SMBIOS SERIAL USING TOOLS LIKE OPENCORE CONFIGURATOR OR OTHERS!!!!!
 Not doing so will prevent iCloud services from working.
