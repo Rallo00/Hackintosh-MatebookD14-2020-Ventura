@@ -8,14 +8,13 @@ Not doing so will prevent iCloud services from working.
 ![Screenshot 2024-01-02 alle 12 40 26](https://github.com/Rallo00/Hackintosh-MatebookD14-2020-Ventura/assets/106067524/5d3eb91e-cf25-493b-95eb-cbf7247cb608)
 
 ## Hardware list
-Matebook D14 2020 (14")
-Huawei custom motherboard (Intel based)
-Intel Core i7-10510U (Comet Lake)
-_Intel® UHD Graphics for 10th Gen Intel® Processors_
-RAM 16GB 3200MHz
-SSD NVMe Western Digital SN730 SDBPNTY 512GB (NVMeFix kext)
-Intel 9430HUN WiFi-Bluetooth 4.0 card (Intel kexts)
-Intel Realtek Audio (AppleALC kext)
+* Matebook D14 2020 (14")
+* Huawei custom motherboard (Intel based)
+* Intel Core i7-10510U (Comet Lake) [_Intel® UHD Graphics for 10th Gen Intel® Processors_]
+* RAM 16GB 3200MHz
+* SSD NVMe Western Digital SN730 SDBPNTY 512GB (NVMeFix kext)
+* Intel 9430HUN WiFi-Bluetooth 4.0 card (Intel kexts)
+* Intel Realtek Audio (AppleALC kext)
 
 ## What Works
 * Graphic acceleration
