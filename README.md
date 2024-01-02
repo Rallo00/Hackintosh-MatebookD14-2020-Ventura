@@ -23,6 +23,7 @@ Not doing so will prevent iCloud services from working.
 * Integrated touchpad and gestures
 * Function buttons (brightness, media, volume)
 * All iCloud functionalities
+* Jack in/out external audio
 * USB-C Thunderbolt (and adapters macOS comaptible)
 * External HDMI
 * HDMI through USB-C
