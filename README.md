@@ -32,7 +32,7 @@ Not doing so will prevent iCloud services from working.
 
 ## What doesn't work
 * AirDrop functionality (not supported on Intel WiFi)
-  _It is possible to swap the provided Intel Card with a macOS compatible Broadcom card like BCM94360NG which is native with Ventura and does not require any kext for compatibility_
+  _It is possible to swap the provided Intel Card with a macOS compatible Broadcom card like BCM94360NG which is native with Ventura and does not require any kext for compatibility (be aware this has not been tested with this laptop yet)_
 * Touchscreen (it breaks while using, no further problems are generated)
 * Dedicated video card nVidia (not supported on macOS)
 * Integrated WebCam (not supported on macOS)
