@@ -32,8 +32,8 @@ Not doing so will prevent iCloud services from working.
 
 ## What doesn't work
 * AirDrop functionality (not supported on this laptop)
-  _It is not possible to swap the provided Intel Card with a macOS compatible Broadcom card like BCM94360NG because the original WiFi card uses a Intel proprietary bus CNVio, therefore the adapter on the motherboard is not compatible with BCM94360NG or equivalent that uses standard M2 2230 connectors. Even replacing the card the motherboard will not load it.
-* Touchscreen (it breaks while using, no further problems are generated)
+  _It is not possible to swap the provided Intel Card with a macOS compatible Broadcom card like BCM94360NG because the original WiFi card uses a Intel proprietary bus CNVio, therefore the adapter on the motherboard is not compatible with BCM94360NG or equivalent that uses standard M2 2230 connectors. Even replacing the card the motherboard will not load it. The only workaround is to use an external usb Wifi/Bluetooth dongle that is macOS compatible to achieve this functionality. In order to make AirDrop work check dortania hackintosh guide in order to configure config.plist accordingly.
+* Touchscreen (it breaks while using, no further problems are generated. I am not using it on this hackintosh therefore don't care to fix it)
 * Dedicated video card nVidia (not supported on macOS)
 * Integrated WebCam (not supported on macOS)
 * Integrated fingerprint reader (not supported on macOS)
