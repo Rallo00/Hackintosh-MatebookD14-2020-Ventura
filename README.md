@@ -29,6 +29,7 @@ Not doing so will prevent iCloud services from working.
 * HDMI through USB-C
 * Ethernet through USB-C
 * USB 2.0 and 3.0 through USB-C
+* AirPods Pro audio (issue solved with release v1.1)
 
 ## What doesn't work
 * AirDrop functionality (not supported on this laptop)
@@ -39,3 +40,4 @@ Not doing so will prevent iCloud services from working.
 * Integrated fingerprint reader (not supported on macOS)
 * Handoff
 * Facetime video (with integrated camera, works with USB external camera)
+* Audio only with AirPods Pro is stuttering and does not work due to a recent firmware update on AirPods from Apple (this has been fixed with v1.1 Release, by updating BlueToolFixup kext)
